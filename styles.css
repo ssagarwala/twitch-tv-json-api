@@ -1,0 +1,22 @@
+body{
+  color:white;
+  background-color:black;
+  
+}
+#header{
+  background:rgba(0,0,0,0.5);
+  border:5px white solid;
+  border-radius:25px;
+}
+.container{
+  width:60%;
+}
+
+img{
+  width:100px;
+  height:100px;
+}
+.row{
+  background:rgba(0,0,0,0.5);
+  border:3px white solid;
+}
